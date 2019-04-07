@@ -1,6 +1,7 @@
 {
-  "name": "aws-helper",
-  "version": "0.0.1",
+  "name": "@awsafanam/aws-helper",
+  "version": "0.0.2",
+  "author": "Awsaf Anam Chowdhury <awsaf.anam@gmail.com>",
   "description": "A collection of common helper functions for AWS JS SDK",
   "main": "index.js",
   "files": [
@@ -10,7 +11,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.185.0",
